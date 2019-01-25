@@ -1,5 +1,5 @@
 # Play Hangman
-https://djbarnwal.github.io/hangman/
+https://github.com/CookdLobsta/hangman2
 The traditional hangman puzzle game developed using ReactJS.
 
 ## Requirements for Development
@@ -9,7 +9,7 @@ The traditional hangman puzzle game developed using ReactJS.
 
 ## Setup for Development
 
-- `git clone https://github.com/djbarnwal/hangman.git`
+- `git clone https://github.com/CookdLobsta/hangman2`
 - `cd hangman`
 - `npm install`
 - `npm start`
